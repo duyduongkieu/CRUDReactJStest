@@ -31,3 +31,18 @@
     transform: rotate(360deg);
   }
 }
+.border-green {
+    border-radius: 5px;
+    background: green;
+    color: white;
+    font-weight: bold;
+    width: 10px;
+    height: 5px;
+}
+.border-red {
+    border-radius: 5px;
+    background: red;
+    color: white;
+    font-weight: bold;
+    padding: 2px;
+}
